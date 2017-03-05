@@ -164,6 +164,10 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/darkside.png)
 
+###Deep###
+
+![Screenshot](screenshots/deep.png)
+
 ###Desert###
 
 ![Screenshot](screenshots/desert.png)
@@ -437,6 +441,14 @@ To include a screenshot, please generate the output using the [screenshotTable.s
 
 ![Screenshot](screenshots/ollie.png)
 
+###One Half Dark###
+
+![Screenshot](screenshots/onehalfdark.png)
+
+###One Half Light###
+
+![Screenshot](screenshots/onehalflight.png)
+
 ###Pandora###
 
 ![Screenshot](screenshots/pandora.png)
@@ -638,6 +650,10 @@ more information.
 
 ![Screenshot](screenshots/ubuntu.png)
 
+###Under The Sea###
+
+![Screenshot](screenshots/under_the_sea.png)
+
 ###Urple###
 
 ![Screenshot](screenshots/urple.png)
@@ -652,11 +668,11 @@ more information.
 
 ###Violet Light###
 
-![Screenshot](Screenshots/violet_light.png)
+![Screenshot](screenshots/violet_light.png)
 
 ###Violet Dark###
 
-![Screenshot](Screenshots/violet_dark.png)
+![Screenshot](screenshots/violet_dark.png)
 
 ###WarmNeon###
 
@@ -843,6 +859,10 @@ The Bright Lights theme was created by [tw15egan](https://github.com/tw15egan)
 
 The Ubuntu theme was inspired by default Ubuntu's console colors. Created by [Maximus](http://superuser.com/questions/497240/ubuntu-purple-terminal-colors-in-conemu) and ported to iTerm2 by [stepin](https://github.com/stepin).
 
+The Under The Sea theme was created by [peterpme](https://github.com/peterpme)
+
+The One Half themes were created by [sonph](https://github.com/sonph), based on Atom's One with some tweakings.
+
 The FirefoxDev theme was created by [Or3stis](https://github.com/Or3stis)
 
 The Ryuuko theme was created by [dylanaraps](https://github.com/dylanaraps) and added by [iandrewt](https://github.com/iandrewt)
@@ -856,6 +876,8 @@ The Elementary OS  theme was created by [elementary.io](https://elementary.io/) 
 The Gruvbox Dark  theme was created by [morhetz](https://github.com/morhetz) and added by [mcchrish](https://github.com/mcchrish)
 
 The Ayu and Ayu Light  themes were created by [alebcay](https://github.com/alebcay)
+
+The Deep  theme was created by [ADoyle](https://github.com/adoyle-h)
 
 If there are other color schemes you'd like to see included, drop me a line!
 
